@@ -1,6 +1,6 @@
-# SSH: Setup & Best Practices
+# SSH
 
-Short notes and a reference for configuring SSH access on a server.
+Some notes for how to harden SSH on a server
 
 Inspired by [ Setting up a production ready VPS is a lot easier than I thought. ](https://www.youtube.com/watch?v=F-9KWQByeU0)
 
